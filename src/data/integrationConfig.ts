@@ -9,7 +9,7 @@ export const integrationConfig = {
         "Real-time social media monitoring system that tracks mentions across Twitter and Facebook, delivering instant notifications through Telex.",
       app_logo: "https://i.postimg.cc/X7fDTwSx/website-template-3335753-1280.jpg",
       app_name: "Social Media Monitor",
-      app_url: "https://socialmonitor.example.com",
+      app_url: "https://social-media-monitor.onrender.com",
       background_color: "#1DA1F2",
     },
     integration_category: "Monitoring & Logging",
@@ -70,7 +70,7 @@ export const integrationConfig = {
         options: ["Twitter", "Facebook"],
       },
     ],
-    tick_url: "https://k4x3mctt-3000.uks1.devtunnels.ms/tick",
-    target_url: "https://api.socialmonitor.com/monitor/target",
+    tick_url: "https://social-media-monitor.onrender.com/monitor/tick",
+    target_url: "https://social-media-monitor.onrender.com/monitor/target",
   },
 };
