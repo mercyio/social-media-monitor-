@@ -9,7 +9,7 @@ export const integrationConfig = {
         "Real-time social media monitoring system that tracks mentions across Twitter and Facebook, delivering instant notifications through Telex.",
       app_logo: "https://i.postimg.cc/X7fDTwSx/website-template-3335753-1280.jpg",
       app_name: "Social Media Monitor",
-      app_url: "https://social-media-monitor.onrender.com",
+      app_url: "https://social-media-monitor.onrender.com/integration-config",
       background_color: "#1DA1F2",
     },
     integration_category: "Monitoring & Logging",
